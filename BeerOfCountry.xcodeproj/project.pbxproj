@@ -15,6 +15,18 @@
 		FCDB8C852667E58200D8161E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8C832667E58200D8161E /* LaunchScreen.storyboard */; };
 		FCDB8C902667E58300D8161E /* BeerOfCountryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDB8C8F2667E58300D8161E /* BeerOfCountryTests.swift */; };
 		FCDB8C9B2667E58300D8161E /* BeerOfCountryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDB8C9A2667E58300D8161E /* BeerOfCountryUITests.swift */; };
+		FCDB8CB62667E69C00D8161E /* heineken.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CAB2667E69900D8161E /* heineken.png */; };
+		FCDB8CB72667E69C00D8161E /* oude-kriek-vieille.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CAC2667E69900D8161E /* oude-kriek-vieille.png */; };
+		FCDB8CB82667E69C00D8161E /* orange-roughy.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CAD2667E69900D8161E /* orange-roughy.png */; };
+		FCDB8CB92667E69C00D8161E /* rogue.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CAE2667E69A00D8161E /* rogue.png */; };
+		FCDB8CBB2667E69C00D8161E /* baltika.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CB02667E69A00D8161E /* baltika.png */; };
+		FCDB8CBC2667E69C00D8161E /* kilkenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CB12667E69B00D8161E /* kilkenny.jpg */; };
+		FCDB8CBD2667E69C00D8161E /* borsodi.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CB22667E69B00D8161E /* borsodi.png */; };
+		FCDB8CBE2667E69C00D8161E /* tuborg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CB32667E69B00D8161E /* tuborg.jpg */; };
+		FCDB8CC02667E69C00D8161E /* kellerbier.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CB52667E69C00D8161E /* kellerbier.png */; };
+		FCDB8CC82667E72000D8161E /* babiliona.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CC72667E72000D8161E /* babiliona.png */; };
+		FCDB8CCD2667E7A300D8161E /* pilssner-urquell.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDB8CCC2667E7A200D8161E /* pilssner-urquell.png */; };
+		FCDB8CD5266808E900D8161E /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDB8CD4266808E900D8161E /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		FCDB8C962667E58300D8161E /* BeerOfCountryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeerOfCountryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCDB8C9A2667E58300D8161E /* BeerOfCountryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerOfCountryUITests.swift; sourceTree = "<group>"; };
 		FCDB8C9C2667E58300D8161E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCDB8CAB2667E69900D8161E /* heineken.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heineken.png; sourceTree = "<group>"; };
+		FCDB8CAC2667E69900D8161E /* oude-kriek-vieille.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "oude-kriek-vieille.png"; sourceTree = "<group>"; };
+		FCDB8CAD2667E69900D8161E /* orange-roughy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange-roughy.png"; sourceTree = "<group>"; };
+		FCDB8CAE2667E69A00D8161E /* rogue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rogue.png; sourceTree = "<group>"; };
+		FCDB8CB02667E69A00D8161E /* baltika.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baltika.png; sourceTree = "<group>"; };
+		FCDB8CB12667E69B00D8161E /* kilkenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kilkenny.jpg; sourceTree = "<group>"; };
+		FCDB8CB22667E69B00D8161E /* borsodi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = borsodi.png; sourceTree = "<group>"; };
+		FCDB8CB32667E69B00D8161E /* tuborg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tuborg.jpg; sourceTree = "<group>"; };
+		FCDB8CB52667E69C00D8161E /* kellerbier.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kellerbier.png; sourceTree = "<group>"; };
+		FCDB8CC72667E72000D8161E /* babiliona.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = babiliona.png; sourceTree = "<group>"; };
+		FCDB8CCC2667E7A200D8161E /* pilssner-urquell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pilssner-urquell.png"; sourceTree = "<group>"; };
+		FCDB8CD4266808E900D8161E /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +123,17 @@
 		FCDB8C772667E57900D8161E /* BeerOfCountry */ = {
 			isa = PBXGroup;
 			children = (
+				FCDB8CCC2667E7A200D8161E /* pilssner-urquell.png */,
+				FCDB8CC72667E72000D8161E /* babiliona.png */,
+				FCDB8CB02667E69A00D8161E /* baltika.png */,
+				FCDB8CB22667E69B00D8161E /* borsodi.png */,
+				FCDB8CAB2667E69900D8161E /* heineken.png */,
+				FCDB8CB52667E69C00D8161E /* kellerbier.png */,
+				FCDB8CB12667E69B00D8161E /* kilkenny.jpg */,
+				FCDB8CAD2667E69900D8161E /* orange-roughy.png */,
+				FCDB8CAC2667E69900D8161E /* oude-kriek-vieille.png */,
+				FCDB8CAE2667E69A00D8161E /* rogue.png */,
+				FCDB8CB32667E69B00D8161E /* tuborg.jpg */,
 				FCDB8C782667E57900D8161E /* AppDelegate.swift */,
 				FCDB8C7A2667E57900D8161E /* SceneDelegate.swift */,
 				FCDB8C7C2667E57900D8161E /* ViewController.swift */,
@@ -106,6 +141,7 @@
 				FCDB8C812667E58200D8161E /* Assets.xcassets */,
 				FCDB8C832667E58200D8161E /* LaunchScreen.storyboard */,
 				FCDB8C862667E58200D8161E /* Info.plist */,
+				FCDB8CD4266808E900D8161E /* imageViewController.swift */,
 			);
 			path = BeerOfCountry;
 			sourceTree = "<group>";
@@ -231,9 +267,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCDB8CBE2667E69C00D8161E /* tuborg.jpg in Resources */,
 				FCDB8C852667E58200D8161E /* LaunchScreen.storyboard in Resources */,
+				FCDB8CB72667E69C00D8161E /* oude-kriek-vieille.png in Resources */,
 				FCDB8C822667E58200D8161E /* Assets.xcassets in Resources */,
+				FCDB8CB82667E69C00D8161E /* orange-roughy.png in Resources */,
+				FCDB8CC02667E69C00D8161E /* kellerbier.png in Resources */,
+				FCDB8CBD2667E69C00D8161E /* borsodi.png in Resources */,
+				FCDB8CC82667E72000D8161E /* babiliona.png in Resources */,
+				FCDB8CBB2667E69C00D8161E /* baltika.png in Resources */,
+				FCDB8CB92667E69C00D8161E /* rogue.png in Resources */,
+				FCDB8CB62667E69C00D8161E /* heineken.png in Resources */,
+				FCDB8CBC2667E69C00D8161E /* kilkenny.jpg in Resources */,
 				FCDB8C802667E57900D8161E /* Main.storyboard in Resources */,
+				FCDB8CCD2667E7A300D8161E /* pilssner-urquell.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +307,7 @@
 			files = (
 				FCDB8C7D2667E57900D8161E /* ViewController.swift in Sources */,
 				FCDB8C792667E57900D8161E /* AppDelegate.swift in Sources */,
+				FCDB8CD5266808E900D8161E /* imageViewController.swift in Sources */,
 				FCDB8C7B2667E57900D8161E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
